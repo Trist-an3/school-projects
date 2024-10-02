@@ -1,0 +1,13 @@
+- Tristan Garcia
+- tgarcia7
+- Winter Quarter 
+- CSE101 PA2
+- Due: 1/29 @ 10AM
+- Readme has all the files names 
+- 
+- Files included in folder:
+- ADT: List.c Graph.c
+- Header: List.h Graph.h 
+- TestFile: GraphTest.c
+- Main File: FindPath.c
+- 
