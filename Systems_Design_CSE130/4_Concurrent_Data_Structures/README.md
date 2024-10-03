@@ -4,7 +4,10 @@
 * StudentID: 1991617
 
 ## Purpose:
-    building two concurrent data structures a bounded buffer (FIFO queue) and a reader-writer lock. The queue allows multiple producers and consumers to access it simultaneously. The reader-writer lock allows multiple readers to hold the lock simultaneously but only one writer, with different priorities for handling contention
+    building two concurrent data structures a bounded buffer (FIFO queue) and a reader-writer lock.
+    The queue allows multiple producers and consumers to access it simultaneously. The reader-writer
+    lock allows multiple readers to hold the lock simultaneously but only one writer, with different
+    priorities for handling contention
 
 
 ## Files included
