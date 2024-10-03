@@ -13,11 +13,11 @@
     Exectuable Files:
     hangman.c - Main file
 
+    Source files:
+    hangman_helpers.c - Contains helper functions used in the Hangman game
+
     Header File:
     hangman_helpers.h - Header file function signatures and constants
-
-    Helper file:
-    hangman_helpers - Contains helper functions used in the Hangman game
 
     Extras:
     Makefile - Compiles and creates executables
