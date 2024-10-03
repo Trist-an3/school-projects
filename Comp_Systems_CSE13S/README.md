@@ -1,6 +1,6 @@
-This folder is a collection of assignments i did in my CSE13S C Computer Programming
+This folder is a collection of assignments i did in my CSE13S, C Computer Programming
 
-Each project explores different aspects of systems programming, file I/O, memory management, and algorithm design in C.
+Each project explores different aspects of systems programming, file I/O, memory management, and algorithm design
 
 * **Pass the Pigs:**
 Simulates the game "Pass the Pigs". Focuses on randomization, file input/output, and implementing the game logic in a command-line environment.
