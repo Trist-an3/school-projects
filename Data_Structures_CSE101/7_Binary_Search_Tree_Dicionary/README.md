@@ -4,8 +4,8 @@
 * StudentID: 1991617
 
 ## Purpose:
-    Purpose of this assignment is to simply create a program that can read a file containing unique 
-    strings, associate each string with the line number it appears on, and then produce two
+    Purpose of this assignment is to simply create a program that can read a file containing 
+    unique strings, associate each string with the line number it appears on, and then produce two
     different representations of this data which is Alphabetical Representation and Pre-order
     Tree Walk Representation.
 
