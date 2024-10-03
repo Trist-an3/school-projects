@@ -10,7 +10,7 @@
 
 ## Files included
     Exectuable Files:
-    calc.c - Contains the main logic for reading user input and evaluating expressions in RPN.
+    calc.c - main file
 
     Source Files:
     stack.c - Implements the stack ADT used to store operands for the RPN calculator.

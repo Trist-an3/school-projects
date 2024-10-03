@@ -9,7 +9,7 @@
 
 ## Files included
     Exectuable Files:
-    sorting.c - Implements the main logic for selecting and testing the sorting algorithms based on command-line arguments.
+    sorting.c - main file
 
     Source Files:
     stats.c - ADT functions
