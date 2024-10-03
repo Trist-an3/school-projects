@@ -4,7 +4,8 @@
 * StudentID: 1991617
 
 ## Purpose:
-    This project involves developing a C program to simulate deuteranopia (red-green color blindness) by altering the color palette of BMP images.
+    This project involves developing a C program to simulate deuteranopia 
+    (red-green color blindness) by altering the color palette of BMP images.
 
 ## Files included
     Exectuable Files:
