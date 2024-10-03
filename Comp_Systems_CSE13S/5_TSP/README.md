@@ -9,7 +9,7 @@
 
 ## Files included
     Exectuable Files:
-    tsp.c: main file
+    tsp.c - main file
 
     Source Files:
     graph.c - Implements the Graph ADT used to store vertices and edges, represented as an adjacency matrix.
