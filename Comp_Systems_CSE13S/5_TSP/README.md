@@ -4,7 +4,8 @@
 * StudentID: 1991617
 
 ## Purpose:
-    Graph theory for tsp and focuses on implementing depth-first search (DFS), stacks, and pathfinding algorithms to optimize the route efficiently
+    Graph theory for tsp and focuses on implementing depth-first search (DFS), stacks, 
+    and pathfinding algorithms to optimize the route efficiently
 
 ## Files included
     Exectuable Files:
