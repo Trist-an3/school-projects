@@ -1,4 +1,5 @@
-This folder is a collection of assignments i did in my CSE101 Data Structure class.
+This folder is a collection of assignments i did in my CSE101 Data Structure class
+Each project focuses on the implementation and application of fundamental data structures 
 
 * List_ADT
 Implements a doubly linked list ADT with cursor-based navigation.
