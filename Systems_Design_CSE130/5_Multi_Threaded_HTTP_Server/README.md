@@ -4,14 +4,22 @@
 * StudentID: 1991617
 
 ## Purpose:
-    This project involves building an HTTP server in C that supports GET and PUT requests following
-    the HTTP/1.1 protocol. The server listens on a specified port, handles client connections 
-    one at a time, and responds with appropriate status codes based on the HTTP request.
+    multi-threaded HTTP server in C that can handle multiple client requests simultaneously.
+    Building upon the previous HTTP server and concurrent data structures assignments,
+    this server utilizes a thread-safe queue and a pool of worker threads to efficiently 
+    manage incoming connections and requests.
 
 ## Files included
     Exectuable Files:
-    httpserver.c - The main program that handles creating a socket, accepting connections, 
-    processing HTTP GET/PUT requests, and sending appropriate responses.
+    httpserver.c: Implements the multi-threaded HTTP server, including request handling, synchronization using pthreads, and generating an audit log.
+
+    Header Files:
+    queue.h - Declares the queue API used for managing the request queue.
+    rwlock.h - Declares the reader-writer lock API for controlling access to shared resources.
+    debug.h - Provides debugging macros and utilities for tracking the server's behavior during execution.
+    protocol.h - Declares the HTTP protocol functions, including request parsing and response formatting.
 
     Extras:
     Makefile - Compiles and creates executables
+    Used rwlock and queue files from previous assignment
+    Used httpserver file from previous assignment and built on it
