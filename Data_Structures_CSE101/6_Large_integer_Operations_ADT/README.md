@@ -5,8 +5,7 @@
 
 ## Purpose:
     The purpose of this assignment is to implement a BigInteger abstract data type (ADT) 
-    in C++ capable of performing arithmetic operations on arbitrarily large signed
-    integers. 
+    capable of performing arithmetic operations on arbitrarily large signed integers. 
 
 ## Files included
     Executable Files:

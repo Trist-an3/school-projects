@@ -4,7 +4,7 @@
 * StudentID: 1991617
 
 ## Purpose:
-    Purpose of this assignment is to create custom integer List in C++ that can perform perfect 
+    Purpose of this assignment is to create custom integer List that can perform perfect 
     shuffles and uses of pseudorandom number generation, array manipulation to simulate
     perfectly shuffling a standard deck
 

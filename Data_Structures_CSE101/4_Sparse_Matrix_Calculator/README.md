@@ -4,7 +4,7 @@
 * Winter 2024 CSE101
 
 ## Purpose:
-    Purpose is to make a sparse matrix
+    Purpose is to make a sparse matrix and performing operations such as matrix addition, multiplication, and transposition while optimizing memory usage and computation time
 
 ## Files included
     Exectuable Files:
