@@ -2,7 +2,6 @@
 * Name: Tristan Garcia
 * CruzID: tgarcia7
 * StudentID: 1991617
-* Winter 2024 CSE101
 
 ## Purpose:
     Purpose of this assignment is to create custom integer List
