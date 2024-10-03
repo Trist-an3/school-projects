@@ -2,10 +2,11 @@
 * Name: Tristan Garcia
 * CruzID: tgarcia7
 * StudentID: 1991617
-* Winter 2024 CSE101
 
 ## Purpose:
-    The purpose of this assignment is to implement a BigInteger abstract data type (ADT) in C++ capable of performing arithmetic operations on arbitrarily large signed integers. 
+    The purpose of this assignment is to implement a BigInteger abstract data type (ADT) 
+    in C++ capable of performing arithmetic operations on arbitrarily large signed
+    integers. 
 
 ## Files included
     Executable Files:
