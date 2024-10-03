@@ -4,9 +4,9 @@
 * StudentID: 1991617
 
 ## Purpose:
-    Purpose of this assignment is to build a graph module that implements the Depth First Search(DFS). The Graph
-    created will find the strongly connected components of
-    a diagraph which are then outputted on a text file. 
+    Purpose of this assignment is to build a graph module that implements the Depth First 
+    Search(DFS). The Graph created will find the strongly connected components of a 
+    diagraph which are then outputted on a text file. 
 
 ## Files included
     Exectuable Files:
