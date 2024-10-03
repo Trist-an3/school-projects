@@ -26,4 +26,4 @@
 ## Extra Notes
 * For the Dictionary.cpp file
     * Some of the code is based off Professor Tantalo's example code and 
-    pseudocode from the class webage under examples
+    pseudocode from the class webage under examples 

@@ -21,5 +21,4 @@
     List.h -  Header file for the List ADTs
 
     Extras:
-    Makefile - Compiles and creates executables
-
+    Makefile - Compiles and creates executables 

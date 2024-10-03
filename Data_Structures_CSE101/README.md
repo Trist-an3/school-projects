@@ -22,4 +22,4 @@ Implements large integer operations such as addition and multiplication using an
 A binary search tree (BST) used to store and look up key-value pairs.
 
 * Red_Black_Tree_Dictionary
-Implements a red-black tree for balanced key-value storage and retrieval.
+Implements a red-black tree for balanced key-value storage and retrieval. 
