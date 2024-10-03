@@ -11,7 +11,8 @@
 
 ## Files included
     Exectuable Files:
-    httpserver.c: Implements the multi-threaded HTTP server, including request handling, synchronization using pthreads, and generating an audit log.
+    httpserver.c: Implements the multi-threaded HTTP server, including request handling, 
+    synchronization using pthreads, and generating an audit log.
 
     Header Files:
     queue.h - Declares the queue API used for managing the request queue.
