@@ -18,10 +18,10 @@
     mathlib.c - Implements the sine, cosine, and tangent functions, along with other mathematical utilities.
 
     Helper file:
-    stack.h: Declares the stack ADT function prototypes.
-    operators.h: Declares operator functions and sets up function pointers for RPN evaluation.
-    mathlib.h: Defines math functions such as sine, cosine, and tangent, implemented without the standard math library.
-    messages.h: Contains error and help messages for the program.
+    stack.h - Declares the stack ADT function prototypes.
+    operators.h - Declares operator functions and sets up function pointers for RPN evaluation.
+    mathlib.h - Defines math functions such as sine, cosine, and tangent, implemented without the standard math library.
+    messages.h - Contains error and help messages for the program.
 
     Extras:
     Makefile - Compiles and creates executables
