@@ -1,4 +1,4 @@
-## Programming Assignment 3 
+## Programming Assignment 2
 * Name: Tristan Garcia
 * CruzID: tgarcia7
 * StudentID: 1991617
@@ -23,7 +23,6 @@
 
     Extras:
     Makefile - Compiles and creates executables
-    README.md - Markdown that explains what the heck is going on
 
 ## Extra Notes
 * For the List.c file, its from the PA1 List.c file

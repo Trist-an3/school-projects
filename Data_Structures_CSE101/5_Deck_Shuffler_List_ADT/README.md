@@ -22,5 +22,4 @@
 
     Extras:
     Makefile - Compiles and creates executables
-    README.md - Markdown that explains what the heck is going on
 

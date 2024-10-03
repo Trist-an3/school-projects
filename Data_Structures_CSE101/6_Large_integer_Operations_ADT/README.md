@@ -23,4 +23,3 @@
 
     Extras:
     Makefile - Compiles and creates executables
-    README.md - Markdown file explaining the project and its components
