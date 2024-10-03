@@ -5,7 +5,9 @@
 * Winter 2024 CSE101
 
 ## Purpose:
-    The purpose of this assignment is to create a program that implements the Dictionary ADT using a Red-Black Tree (RBT). The program reads a file containing unique strings, associates each string with the line number it appears on, and produces two different representations of this data: Alphabetical Representation and Pre-order Tree Walk Representation
+    The purpose of this assignment is to create a program that implements the Dictionary ADT using a Red-Black Tree (RBT). The program reads a file containing unique strings, 
+    associates each string with the line number it appears on, and produces two different representations of this data: Alphabetical Representation and Pre-order Tree Walk
+     Representation
 
 ## Files included
     Exectuable Files:
